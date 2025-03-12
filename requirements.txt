@@ -1,0 +1,7 @@
+streamlit
+pandas
+PyPDF
+langchain
+textract
+networkx
+numpy

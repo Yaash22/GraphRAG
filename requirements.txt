@@ -1,7 +1,13 @@
+textract
 streamlit
 pandas
-PyPDF
+PyPDF2
+python-docx
 langchain
-textract
+langchain-community
+faiss-cpu
 networkx
+matplotlib
+pyvis
 numpy
+transformers
